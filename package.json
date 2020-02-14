@@ -1,0 +1,29 @@
+{
+  "name": "@nodechessengineserver/lichess",
+  "version": "1.0.0",
+  "description": "Lichess modells and API wrappers.",
+  "main": "src/lichess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lichess",
+    "modells",
+    "api",
+    "wrappers"
+  ],
+  "author": "easychessanimations",
+  "license": "MIT",
+  "homepage": "https://github.com/easychessanimations/lichess",
+  "bugs": {
+    "url": "https://github.com/easychessanimations/lichess/issues",
+    "email": "chessbotroulette@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/easychessanimations/lichess.git"
+  },
+  "dependencies": {
+    "@nodechessengineserver/miscutils": "^1.0.0"
+  }
+}
