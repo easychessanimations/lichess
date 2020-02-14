@@ -1,6 +1,6 @@
 {
   "name": "@nodechessengineserver/lichess",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lichess modells and API wrappers.",
   "main": "src/lichess.js",
   "scripts": {
@@ -24,6 +24,7 @@
     "url": "https://github.com/easychessanimations/lichess.git"
   },
   "dependencies": {
-    "@nodechessengineserver/miscutils": "^1.0.0"
+    "@nodechessengineserver/miscutils": "^1.0.0",
+    "form-data": "^3.0.0"
   }
 }
